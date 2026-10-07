@@ -25,3 +25,6 @@ dist/
 
 # macOS metadata
 .DS_Store
+
+# Local Spec Kit tooling
+/.specify/
